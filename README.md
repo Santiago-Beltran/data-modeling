@@ -11,3 +11,5 @@ Este projecto contiene un diagrama de modelamiento de datos que muestra claramen
 - Impuesto de Transporte ([https://www.datos.gov.co/Minas-y-Energ-a/Impuesto-de-Transporte-MinEnerg-a/7s8e-7zcb]) - (Ministerio de Minas y Energía)
 
 - DIVIPOLA - Código Municipios ([https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-C-digos-municipios/gdxc-w37w/about_data]) - (DANE)
+
+![Screenshot](https://github.com/Santiago-Beltran/data-modeling/blob/main/data-modelling.jpeg)
